@@ -5,6 +5,7 @@
     "keywords": ["shopware", "shop"],
     "homepage": "http://www.shopware.com",
     "type": "shopware-core",
+    "minimum-stability": "dev",
     "license": [
         "AGPL-3.0",
         "proprietary"
