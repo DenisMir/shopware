@@ -10,12 +10,6 @@
         "AGPL-3.0",
         "proprietary"
     ],
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/DenisMir/SwComposerInstaller"
-        }
-    ],
     "support": {
         "forum": "http://forum.shopware.com",
         "wiki": "http://wiki.shopware.com",
@@ -72,8 +66,7 @@
         "ramsey/uuid": "3.5.2",
         "setasign/fpdf": "1.8.1",
         "setasign/fpdi": "1.6.2",
-        "ocramius/proxy-manager": "^1.0",
-        "communiacs/sw-composer-installer": "dev-master"
+        "ocramius/proxy-manager": "^1.0"
     },
     "suggest": {
         "ext-apcu": "*",
