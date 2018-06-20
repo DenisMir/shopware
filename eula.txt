@@ -1,4 +1,4 @@
-Deutsche EULA
+Deutsche EULA IST
 
 Shopware 5 ist dual lizenziert. Die Endnutzer-Lizenzbestimmungen („EULA“) für die Professional-, Enterprise Business und Enterprise Cluster-Editionen finden Sie unter I., die GNU Affero General Public License („AGPLv3“) für die Community-Edition finden Sie unter II.
 
