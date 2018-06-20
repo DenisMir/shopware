@@ -1,4 +1,4 @@
-Working EULA now
+Working EULA now with with no discard changes
 Shopware 5 is licensed dually. The End-User-License-Agreement („EULA“) for the Professional-, Enterprise Business- and Enterprise-Cluster-editions can be found under I., the GNU Affero General Public License (“AGPLv3”) for the Community-edition can be found under II.
 
 
